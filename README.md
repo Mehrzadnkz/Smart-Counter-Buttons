@@ -71,4 +71,3 @@ export default defineConfig([
   },
 ])
 ```
-"# Smart-Counter-Buttons" 
